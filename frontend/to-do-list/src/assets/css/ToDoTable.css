@@ -1,0 +1,21 @@
+.disable-button{
+    pointer-events: none;
+}
+
+.disable-text{
+    text-decoration: line-through;
+}
+
+.table-container {
+    max-height: 45vh;
+    overflow-y: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    
+  }
+
+  .td-table{
+    display: flex;
+    width: 80px;
+    justify-content: center;
+    align-items: center;
+  }

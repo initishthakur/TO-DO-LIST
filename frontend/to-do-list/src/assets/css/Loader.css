@@ -1,0 +1,7 @@
+.loader-class{
+    /* margin-top: 200px; */
+
+    display: flex;
+    justify-content: center;
+    background-color: transparent;
+}

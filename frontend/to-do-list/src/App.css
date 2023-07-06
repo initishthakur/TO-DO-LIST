@@ -1,0 +1,28 @@
+
+
+.outer{
+  background-image: url('../src/assets/images/hjj.avif');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  position: fixed;
+  width: 100%;
+}
+
+.outer-div-one{
+ 
+  padding: 10px;
+  row-gap: 50px;
+   
+}
+
+.inner-div{
+  width: 600px;
+  height: 90vh;
+  padding: 20px;
+  margin-left: 80px;
+  background-color: #b7a8a880;
+    backdrop-filter: blur(2px); 
+
+}
